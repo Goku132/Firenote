@@ -4,7 +4,7 @@ Note app:
 
 * Java
 * Firebase
-*
+* Add your own google json file. Enable email loggin and create user. 
 Issues:
 
 1. Error when running.
